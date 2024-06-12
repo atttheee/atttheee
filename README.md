@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there!
+im athee! someone interessed in
+- C#
+
 
 <!--
 **atttheee/atttheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
