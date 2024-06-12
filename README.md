@@ -1,19 +1,12 @@
-## Hello there!
-im athee! someone interessed in
-- C#
+
+## About me 📔
+I am athee, an curious person trying to learn android development and computer languages.
 
 
-<!--
-**atttheee/atttheee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Known Languages 🛠
+C#. Thats it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacting
+email: shell@shelll.xyz // shellrate@shelll.xyz\
+telegram: @attthee
